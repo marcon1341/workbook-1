@@ -1,1 +1,2 @@
-lets code
+This is a practice repo
+
